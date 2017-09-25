@@ -1,0 +1,3 @@
+include 'pricing'
+include 'customer'
+include 'checkout'

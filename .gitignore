@@ -1,5 +1,5 @@
 .gradle
-/build/
+/**/build/
 
 ### STS ###
 .apt_generated
@@ -21,4 +21,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-gradle/wrapper/gradle-wrapper.jar
+wiremock-standalone-2.8.0.jar
+!/gradle/wrapper/gradle-wrapper.jar
